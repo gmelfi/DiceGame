@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Game</string>
+    <string name="wins">Wins</string>
+    <string name="draw">Draw</string>
+    <string name="loses">Loses</string>
+    <string name="play">Play</string>
+</resources>
